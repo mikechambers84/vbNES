@@ -1,0 +1,17 @@
+frmMain = 0, 0, 0, 0, C, 0, 0, 0, 0, C
+mod6502 = 26, 26, 1347, 660, 
+modMemory = 0, 0, 0, 0, C
+modPPU = 0, 0, 0, 0, C
+modCart = 0, 0, 0, 0, C
+modNES = 0, 0, 0, 0, C
+modInput = 0, 0, 0, 0, C
+modRender = 0, 0, 0, 0, C
+modMapper = 52, 52, 1373, 686, Z
+frmDirectPlay = 0, 0, 0, 0, C, 0, 0, 0, 0, C
+modAudio = 0, 0, 0, 0, C
+modArrays = 0, 0, 0, 0, C
+modState = 0, 0, 0, 0, C
+frmConfigInput = 0, 0, 0, 0, C, 0, 0, 0, 0, C
+modGenie = 0, 0, 0, 0, C
+frmAudioDbg = 0, 0, 0, 0, C, 0, 0, 0, 0, C
+modNetplay = 0, 0, 0, 0, C
