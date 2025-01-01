@@ -16,9 +16,13 @@ There are four quick-save slots and the keyboard shortcut for these are F1 to F4
 
 ### DEFAULT KEY MAPPING
 Z = B button
+
 X = A button
+
 Enter = Start button
+
 Right shift = Select button
+
 Arrow keys = Directional pad
 
 Have fun!
